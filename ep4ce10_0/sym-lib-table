@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name cp4ce10_0-rescue)(type Legacy)(uri ${KIPRJMOD}/cp4ce10_0-rescue.lib)(options "")(descr ""))
+  (lib (name Altera)(type Legacy)(uri /home/balmer/radio/altera/doc/kicad/Altera.lib)(options "")(descr ""))
+)

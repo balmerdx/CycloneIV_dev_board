@@ -1,0 +1,13 @@
+*.vcd
+*.vvp
+
+*.sv.bak
+*.bak
+*.kicad_pcb-bak
+
+ep4ce10_0/out
+ep4ce10_0/cp4ce10_0.net
+rf_frontend/rf_frontend/frontend
+rf_frontend/rf_frontend/out_gerber
+
+
