@@ -8,6 +8,8 @@
 * JTAG
 * 28 ножек FPGA для подключения пользовательских устройств
 
+[Схема в pdf формате](https://github.com/balmerdx/CycloneIV_dev_board/blob/master/documentation/cp4ce10_0.pdf)
+
 ### Плата в KICAD
 
 ![KICAD shot](https://raw.githubusercontent.com/balmerdx/CycloneIV_dev_board/master/documentation/pcb_view.png)
